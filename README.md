@@ -1,4 +1,6 @@
 # 🌟 FIEMG Estudantil | Recriação de Site (SENAI CTTI BH) 🚀
+
+[![Tecnologias Principais](https://img.shields.io/badge/Tech-HTML%2FCSS%2FJS-blue?style=for-the-badge)](##-%C3%BAltimas-tecnologias-utilizadas)
 ---
 
 ## 🎯 Objetivo: Um Portal Jovem para a Indústria
