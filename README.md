@@ -4,7 +4,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 ---
 
-## 🎯 Objetivo: Um Portal Jovem para a Indústria
+## 🎯 Objetivo: Recriação de pagina da FIEMG
 
 Este projeto é a culminação prática do curso de **Desenvolvimento Front-end** no **SENAI CTTI de Belo Horizonte**. Nossa meta foi ousada: transformar o site da **FIEMG (Federação das Indústrias de Minas Gerais)** em uma plataforma digital atraente e otimizada para o **público estudantil**.
 
