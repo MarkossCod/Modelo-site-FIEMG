@@ -1,6 +1,6 @@
 # 🌟 FIEMG Estudantil | Recriação de Site (SENAI CTTI BH) 🚀
 
-[![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)](URL_DO_SITE_HOSPEDADO)
+[![Status do Projeto](https://www.fiemg.com.br/)]
 [![Tecnologias Principais](https://img.shields.io/badge/Tech-HTML%2FCSS%2FJS-blue?style=for-the-badge)](##-%C3%BAltimas-tecnologias-utilizadas)
 
 ---
@@ -34,29 +34,13 @@ Utilizamos as melhores práticas do mercado para garantir um projeto robusto, es
 * **Animações Suaves:** Transições CSS para uma experiência de usuário fluida.
 
 ---
-
-## 🖥️ Galeria de Screenshots & Protótipos
-
-**Veja a Recriação em Ação!**
-
-É mais fácil mostrar do que falar. Confira o resultado do nosso esforço em diferentes dispositivos:
-
-| 💻 Desktop View | 📱 Mobile View |
-| :---: | :---: |
-| [![Desktop Preview](URL_DO_SCREENSHOT_DESKTOP)](URL_DO_SCREENSHOT_DESKTOP) | [![Mobile Preview](URL_DO_SCREENSHOT_MOBILE)](URL_DO_SCREENSHOT_MOBILE) |
-
-**Link para o Projeto Hospedado (Live Demo):**
-[▶️ CLIQUE AQUI PARA ACESSAR A DEMONSTRAÇÃO COMPLETA](URL_DO_SITE_HOSPEDADO)
-
----
-
 ## 🏗️ Como Rodar Localmente
 
 Siga estes passos simples para ter o projeto rodando em sua máquina:
 
 1.  **Clonar o Repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+    git clone (https://github.com/MarkossCod/Modelo-site-FIEMG.git)
     ```
 
 2.  **Navegar até a Pasta:**
@@ -75,16 +59,14 @@ Este trabalho foi realizado com dedicação e espírito de equipe. Conecte-se co
 
 | 👤 Aluno(a) | 🔗 GitHub | 📧 Contato |
 | :---: | :---: | :---: |
-| **[Seu Nome Aqui]** | [@SeuUsuarioGitHub](https://github.com/SeuUsuarioGitHub) | [Email Aqui] |
-| **[Nome do Colega 1]** | [@Colega1GitHub](https://github.com/Colega1GitHub) | [Email Aqui] |
-| **[Nome do Colega 2]** | [@Colega2GitHub](https://github.com/Colega2GitHub) | [Email Aqui] |
-| *(Adicione todos os membros)* | | |
+| **[Markos Samuell]** | [MarkossCod](https://github.com/MarkossCod) | [0001126664@senaimgaluno.com.br] |
+
 
 ---
 
 ### 🏛️ Instituições Envolvidas
 
-[SENAI CTTI BH](LINK_SENAI_CTTI) | [FIEMG - Federação das Indústrias](LINK_FIEMG_OFICIAL)
+[SENAI CTTI BH](https://www.fiemg.com.br/senai/) | [FIEMG - Federação das Indústrias](https://www.fiemg.com.br/)
 
 <p align="center">
     O futuro da indústria começa com a educação. 💡
