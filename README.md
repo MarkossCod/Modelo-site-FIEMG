@@ -1,6 +1,7 @@
 # 🌟 FIEMG Estudantil | Recriação de Site (SENAI CTTI BH) 🚀
 
-[![Tecnologias Principais](https://img.shields.io/badge/Tech-HTML%2FCSS%2FJS-blue?style=for-the-badge)](##-%C3%BAltimas-tecnologias-utilizadas)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 ---
 
 ## 🎯 Objetivo: Um Portal Jovem para a Indústria
@@ -38,12 +39,12 @@ Siga estes passos simples para ter o projeto rodando em sua máquina:
 
 1.  **Clonar o Repositório:**
     ```bash
-    git clone (https://github.com/MarkossCod/Modelo-site-FIEMG.git)
+    git clone [https://github.com/MarkossCod/Modelo-site-FIEMG.git](https://github.com/MarkossCod/Modelo-site-FIEMG.git)
     ```
 
 2.  **Navegar até a Pasta:**
     ```bash
-    cd NOME_DO_REPOSITORIO
+    cd Modelo-site-FIEMG
     ```
 
 3.  **Abrir o Index:**
@@ -57,8 +58,7 @@ Este trabalho foi realizado com dedicação e espírito de equipe. Conecte-se co
 
 | 👤 Aluno(a) | 🔗 GitHub | 📧 Contato |
 | :---: | :---: | :---: |
-| **[Markos Samuell]** | [MarkossCod](https://github.com/MarkossCod) | [0001126664@senaimgaluno.com.br] |
-
+| **Markos Samuell** | [@MarkossCod](https://github.com/MarkossCod) | [0001126664@senaimgaluno.com.br] |
 
 ---
 
